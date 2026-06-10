@@ -24,7 +24,13 @@
 
 #### normal
 
+![开局站位](assets/abyss/short_normal_step1.png)
 
+![正式进攻](assets/abyss/short_normal_step2.png)
+
+![进点混战](assets/abyss/short_normal_step3.png)
+
+![下包后守包](assets/abyss/short_normal_step4.png)
 
 ### antieco
 
