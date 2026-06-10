@@ -42,4 +42,22 @@
 
 ### 反控
 
+#### 手枪局反控a大
+
+![anti_a_main_1](assets/abyss/anti_a_main_1.png)
+
+![anti_a_main_2](assets/abyss/anti_a_main_2.png)
+
+![anti_a_main_3](assets/abyss/anti_a_main_3.png)
+
+![anti_a_main_4](assets/abyss/anti_a_main_4.png)
+
+![anti_a_main_5](assets/abyss/anti_a_main_5.png)
+
+![anti_a_main_6](assets/abyss/anti_a_main_6.png)
+
+![anti_a_main_7](assets/abyss/anti_a_main_7.png)
+
+![anti_a_main_8](assets/abyss/anti_a_main_8.png)
+
 ## 一些思考
